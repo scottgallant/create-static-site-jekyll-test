@@ -1,0 +1,17 @@
+{
+  "name": "jekyll-test-site",
+  "version": "0.1.0",
+  "devDependencies": {
+    "static-scripts": "0.1.1"
+  },
+  "dependencies": {
+    "static-scripts": "0.1.1",
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "start": "static-scripts start",
+    "preview": "static-scripts preview",
+    "build": "static-scripts build",
+    "eject": "static-scripts eject"
+  }
+}
